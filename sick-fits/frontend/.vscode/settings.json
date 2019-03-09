@@ -1,4 +1,8 @@
 {
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
   "workbench.colorCustomizations": {
     "titleBar.activeForeground": "#000",
     "titleBar.inactiveForeground": "#000000CC",
