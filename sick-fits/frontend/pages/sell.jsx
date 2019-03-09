@@ -1,10 +1,9 @@
 const Sell = _ => {
-    return (
-
-        <div>
-        <p>Here is some text!</p>
+  return (
+    <div>
+      <p>Here is some text!</p>
     </div>
-        )
-}
+  );
+};
 
-export default Sell
+export default Sell;

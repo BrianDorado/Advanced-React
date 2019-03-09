@@ -7,9 +7,6 @@ export default class Root extends PureComponent {
     return (
       <div>
         <p>Hello!</p>
-        <Link href="/sell">
-          <a>Sell</a>
-        </Link>
       </div>
     );
   }
